@@ -6,7 +6,7 @@ import Navbar from "./components/Navbar";
 
 export default function App() {
   return (
-    <Router basename="/S203">
+    <Router basename="/S2031">
       <Navbar />
       <Routes>
         <Route path="/" element={<Login />} />
